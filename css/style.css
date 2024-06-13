@@ -962,10 +962,10 @@
   font-size: 24px;
 }
 .owl-carousel .owl-controls .owl-nav .owl-prev:before {
-  content: 'ï„„';
+  content: '\f060';
 }
 .owl-carousel .owl-controls .owl-nav .owl-next:before {
-  content: 'ï„…';
+  content: '\f061';
 }
 .owl-theme .owl-nav {
   margin: 0;
@@ -1025,7 +1025,7 @@
   color:#474646;
 }
 .client-slider .client-slider-wrapper p:before {
-  content: 'ï„';
+  content: '\f0a8';
   font-family: 'font-awesome';
   color:#eeeeee;
   font-size: 55px;
